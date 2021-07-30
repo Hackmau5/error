@@ -1,0 +1,187 @@
+======================
+Proton: 1627567133 experimental-6.3-20210729
+SteamGameId: 291550
+Command: ['/mnt/HDD/Games/steamapps/common/Brawlhalla/Brawlhalla.exe']
+Options: {'forcelgadd'}
+depot: 0.20210630.17
+pressure-vessel: 0.20210630.0
+scripts: v0.20210623.0-0-ga389036
+soldier: 0.20210629.0 soldier 0.20210629.0
+======================
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+fsync: up and running.
+wine: RLIMIT_NICE is <= 20, unable to use setpriority safely
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+1721.419:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wineboot.exe" at 0000000140000000: builtin
+1721.423:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+1721.423:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+1721.423:0028:002c:trace:seh:install_bpf Installing seccomp filters.
+1721.423:0028:002c:trace:seh:check_bpf_jit_enable enabled 0x31.
+1721.429:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+1721.429:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+1721.429:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+1721.431:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ws2_32.dll" at 00007F15A7830000: builtin
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+1721.607:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\services.exe" at 0000000140000000: builtin
+1721.611:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+1721.611:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+1721.611:0030:0034:trace:seh:sigsys_handler SIGSYS, rax 0xffff, rip 0x600000000005.
+1721.611:0030:0034:trace:seh:install_bpf Seccomp filters already installed.
+1721.617:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+1721.617:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+1721.617:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+1721.619:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+1721.622:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+1721.622:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+1721.624:0030:0034:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\userenv.dll" at 0000000388E20000: builtin
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+1721.687:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\plugplay.exe" at 0000000140000000: builtin
+1721.691:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+1721.691:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+1721.691:003c:0040:trace:seh:sigsys_handler SIGSYS, rax 0xffff, rip 0x600000000005.
+1721.691:003c:0040:trace:seh:install_bpf Seccomp filters already installed.
+1721.697:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+1721.697:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+1721.698:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+1721.699:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+1721.703:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+1721.707:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+1721.707:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+1721.707:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+1722.086:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+1722.086:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+1722.086:003c:0040:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+1722.133:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000140000000: builtin
+1722.137:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+1722.137:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+1722.137:0058:005c:trace:seh:sigsys_handler SIGSYS, rax 0xffff, rip 0x600000000005.
+1722.137:0058:005c:trace:seh:install_bpf Seccomp filters already installed.
+1722.143:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+1722.143:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+1722.143:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+1722.146:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+1722.147:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 00000002279A0000: builtin
+1722.163:0058:005c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+1722.168:0058:0068:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,0,0x162f870,30,(nil))
+1722.177:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\winebus.sys" at 00007F3AFC1C0000: builtin
+1722.181:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+1722.181:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+1722.183:0058:0064:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,0,0x101f180,30,(nil))
+1722.188:0058:0064:err:ntoskrnl:ZwLoadDriver failed to create driver L"\\Registry\\Machine\\System\\CurrentControlSet\\Services\\winehid": c0000142
+1722.189:0058:0064:err:plugplay:load_function_driver Failed to load driver L"winehid", status 0xc0000142.
+1722.189:0058:0064:fixme:plugplay:pdo_pnp_dispatch Unhandled function 00000000
+1722.248:0058:0064:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\wineusb.sys" at 00007F3AEE750000: builtin
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+1722.300:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winedevice.exe" at 0000000140000000: builtin
+1722.304:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 000000007B000000: builtin
+1722.305:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 000000007B600000: builtin
+1722.305:007c:0080:trace:seh:sigsys_handler SIGSYS, rax 0xffff, rip 0x600000000005.
+1722.305:007c:0080:trace:seh:install_bpf Seccomp filters already installed.
+1722.315:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 00000003AF670000: builtin
+1722.315:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 000000032A700000: builtin
+1722.315:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 0000000330260000: builtin
+1722.323:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msvcrt.dll" at 00000001C8DB0000: builtin
+1722.323:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ntoskrnl.exe" at 00000002279A0000: builtin
+1722.352:007c:0080:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+1722.360:007c:008c:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,0,0x162f870,30,(nil))
+1722.368:007c:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\drivers\\mountmgr.sys" at 00007FC083FE0000: builtin
+1722.427:007c:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+1722.427:007c:0088:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+1722.437:007c:008c:trace:seh:NtQueryInformationThread (0x64,0,0x162f810,30,(nil))
+1722.452:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 000000026B4C0000: builtin
+1722.465:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 0000000231AE0000: builtin
+1722.472:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 00000002F1FA0000: builtin
+1722.473:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 000000021A7E0000: builtin
+1722.473:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 000000023D820000: builtin
+1722.473:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 0000000327020000: builtin
+1722.473:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 00000002E8F10000: builtin
+1722.473:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 00000003126F0000: builtin
+1722.473:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 00000002E3540000: builtin
+1722.473:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 00007F15A6C00000: builtin
+1722.602:0028:002c:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 00000003AFD00000: builtin
+1722.611:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\steam.exe" at 7E830000: builtin
+1722.616:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 7B000000: builtin
+1722.616:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 7B600000: builtin
+1722.625:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 70B40000: builtin
+1722.625:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 6BC00000: builtin
+1722.625:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 61740000: builtin
+1722.629:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 6C9C0000: builtin
+1722.632:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 62FC0000: builtin
+1722.646:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 63480000: builtin
+1722.646:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 6BCC0000: builtin
+1722.646:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 6ED00000: builtin
+1722.646:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 68500000: builtin
+1722.646:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 6A400000: builtin
+1722.655:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 63BC0000: builtin
+1722.655:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 64A40000: builtin
+1722.655:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shell32.dll" at 7DDB0000: builtin
+1723.083:0020:0024:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 71200000: builtin
+1723.109:009c:00a0:err:module:process_init failed to load L"C:\\windows\\system32\\explorer.exe", error 4000000e
+Setting breakpad minidump AppID = 291550
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198334927289 [API loaded no]
+1723.125:0020:00a4:err:steam:initialize_vr_data Could not load libopenvr_api.so.
+1723.125:0020:00a4:trace:seh:NtQueryInformationThread (0xfffffffe,12,0x124ff1c,4,(nil))
+1723.132:0020:0098:err:winediag:nodrv_CreateWindow Application tried to create a window, but no driver could be loaded.
+1723.132:0020:0098:err:winediag:nodrv_CreateWindow The explorer process failed to start.
+ERROR: ld.so: object '/home/hackmau5/.local/share/Steam/ubuntu12_64/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+1723.180:00a8:00ac:trace:loaddll:build_module Loaded L"Z:\\mnt\\HDD\\Games\\steamapps\\common\\Brawlhalla\\Brawlhalla.exe" at 00400000: native
+1723.191:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernelbase.dll" at 7B000000: builtin
+1723.191:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\kernel32.dll" at 7B600000: builtin
+1723.208:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ucrtbase.dll" at 70B40000: builtin
+1723.208:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sechost.dll" at 6BC00000: builtin
+1723.208:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\advapi32.dll" at 61740000: builtin
+1723.211:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\gdi32.dll" at 6C9C0000: builtin
+1723.222:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\rpcrt4.dll" at 62FC0000: builtin
+1723.231:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\version.dll" at 63480000: builtin
+1723.231:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\setupapi.dll" at 6BCC0000: builtin
+1723.231:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\user32.dll" at 6ED00000: builtin
+1723.231:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\combase.dll" at 68500000: builtin
+1723.231:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ole32.dll" at 6A400000: builtin
+1723.231:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shcore.dll" at 63BC0000: builtin
+1723.231:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\shlwapi.dll" at 64A40000: builtin
+1723.231:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\SHELL32.dll" at 7DF40000: builtin
+1723.237:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\cabinet.dll" at 6D580000: builtin
+1723.243:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imm32.dll" at 71200000: builtin
+1723.243:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\comctl32.dll" at 6CC40000: builtin
+1723.251:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\bcrypt.dll" at 66240000: builtin
+1723.251:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\crypt32.dll" at 6E8C0000: builtin
+1723.256:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dbghelp.dll" at 6FA80000: builtin
+1723.256:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\imagehlp.dll" at 6DB40000: builtin
+1723.260:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\mspatcha.dll" at 710C0000: builtin
+1723.262:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\odbccp32.dll" at 62E00000: builtin
+1723.265:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\oleaut32.dll" at 64EC0000: builtin
+1723.268:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\sxs.dll" at 658C0000: builtin
+1723.276:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\mpr.dll" at 70940000: builtin
+1723.279:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\ws2_32.dll" at 7DE50000: builtin
+1723.279:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wininet.dll" at 61940000: builtin
+1723.279:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\urlmon.dll" at 637C0000: builtin
+1723.283:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\wintrust.dll" at 6F4C0000: builtin
+1723.283:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msi.dll" at 65080000: builtin
+1723.420:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\uxtheme.dll" at 68700000: builtin
+1723.969:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\msacm32.dll" at 6A040000: builtin
+1723.970:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\WINMM.dll" at 00FA0000: builtin
+1723.980:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\OLEACC.dll" at 01060000: builtin
+1723.991:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\MSIMG32.dll" at 70E80000: builtin
+1724.008:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\winspool.drv" at F6160000: builtin
+1724.009:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\COMDLG32.dll" at 70D00000: builtin
+1724.015:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\mscms.dll" at 001E0000: builtin
+1724.042:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\iphlpapi.dll" at F6030000: builtin
+1724.049:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\dnsapi.dll" at F5FF0000: builtin
+1724.049:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\netapi32.dll" at F6060000: builtin
+1724.050:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\Secur32.dll" at F6090000: builtin
+1724.060:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\DSOUND.dll" at 682C0000: builtin
+1724.731:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\hid.dll" at 666C0000: builtin
+1724.732:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\DINPUT8.dll" at F5F90000: builtin
+1724.732:00a8:00ac:trace:loaddll:build_module Loaded L"Z:\\mnt\\HDD\\Games\\steamapps\\common\\Brawlhalla\\Adobe AIR\\Versions\\1.0\\Adobe AIR.dll" at 10000000: native
+1724.739:00a8:00ac:err:winediag:SECUR32_initNTLMSP ntlm_auth was not found or is outdated. Make sure that ntlm_auth >= 3.0.25 is in your path. Usually, you can find it in the winbind package of your distribution.
+1724.768:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\Kerberos.dll" at F5660000: builtin
+1724.839:00a8:00ac:trace:loaddll:build_module Loaded L"C:\\windows\\system32\\mlang.dll" at 69480000: builtin
+1724.843:007c:008c:trace:seh:NtQueryInformationThread (0x64,0,0x162f810,30,(nil))
+1724.986:00a8:00ac:err:winediag:nodrv_CreateWindow Application tried to create a window, but no driver could be loaded.
+1724.986:00a8:00ac:err:winediag:nodrv_CreateWindow The explorer process failed to start.
+1725.002:00a8:00c0:fixme:sync:SetWaitableTimerEx (000000F0, 0302FE68, 0, 00000000, 00000000, 00000000, 500) semi-stub
+1727.422:0030:0048:trace:seh:NtQueryInformationThread (0xfffffffffffffffe,12,0x1a1fd8c,4,(nil))
