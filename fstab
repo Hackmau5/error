@@ -1,0 +1,15 @@
+  GNU nano 5.8                                              /etc/fstab                                                        
+# /etc/fstab: static file system information.
+#
+# Use 'blkid' to print the universally unique identifier for a device; this may
+# be used with UUID= as a more robust way to name devices that works even if
+# disks are added and removed. See fstab(5).
+#
+# <file system>             <mount point>  <type>  <options>  <dump>  <pass>
+UUID=4A32-FB92                            /boot/efi      vfat    umask=0077 0 2
+UUID=6db35234-1cd4-4544-a894-fad3abb6b697 /              ext4    defaults,noatime 0 1
+UUID=f68c5876-6d14-46ee-8db6-e1c6b9527a84 swap           swap    defaults,noatime 0 0
+
+#Mount
+UUID=xxx    /mnt/HDD        ntfs-3g defaults,uid=1000,gid=1000      0       0
+UUID=xxx    /mnt/SSD          ntfs-3g defaults,uid=1000,gid=1000      0       0
